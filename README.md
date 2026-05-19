@@ -238,23 +238,26 @@ predict_image(model, image_index=25, dataset=test_dataset)
 
 ## Training Loss, Validation Loss Vs Iteration Plot
 
-<img width="703" height="657" alt="image" src="https://github.com/user-attachments/assets/b7122d73-f3ed-4556-87ce-6b3155cedef2" />
+<img width="701" height="656" alt="image" src="https://github.com/user-attachments/assets/28315273-7055-42ad-965c-9ee5debb5efa" />
+
 
 
 
 ## Confusion Matrix
+<img width="646" height="583" alt="image" src="https://github.com/user-attachments/assets/aa0b8444-7a5c-4157-953d-e6644d4c8d2e" />
 
-<img width="687" height="603" alt="image" src="https://github.com/user-attachments/assets/fdcd73d1-a104-49d2-a664-14d95b6423f5" />
 
 
 ## Classification Report
 
-<img width="452" height="200" alt="image" src="https://github.com/user-attachments/assets/5dc2ff90-8204-4228-8a97-0f5f739f9b79" />
+<img width="425" height="202" alt="image" src="https://github.com/user-attachments/assets/5799fab7-26f9-419b-9d55-6e277fcdd892" />
+
 
 
 ### New Sample Data Prediction
 
-<img width="522" height="799" alt="image" src="https://github.com/user-attachments/assets/831d451c-fdc7-41ca-bf1f-0c3b36b99fbc" />
+<img width="502" height="893" alt="image" src="https://github.com/user-attachments/assets/5026e57c-eb14-4289-8499-0e9756d5cf4d" />
+
 
 
 ## RESULT
